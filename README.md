@@ -1,1 +1,4 @@
-"# DigHum101" 
+# Car-Centric Planning and Obesity in the United States
+![Walk_Score](https://user-images.githubusercontent.com/98555913/176984983-e32b4e34-fb05-493c-8d00-33bb4b1c18ca.png)
+![obesity](https://user-images.githubusercontent.com/98555913/176984985-1d5e4ddb-8b7f-4ddc-8cfb-9626c2df8bce.png)
+Adverse health effects that arise from car-centric urban planning such as climate change and air pollution are well documented. However, there is the other health effect in the name of lessened physical activity whos correlation to automobile dependance is less discussed. I believe that this correlation can be substantiated and I have attempted to do so in this project. The two data sets used are the  CDC 2020 Adult Obesity Prevalence study and the walk score dataset obtained from walkscore.com. The data was cleaned and visualized using geomaps as well as analysed using techniques such as linear regression and clustering. With this project, I hope I've established that further investigation into the correlation between objesity and car-centric planning is worthwhile as well as a foundation for further research into this topic. 
